@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "312083692463",
+    "firebase_url": "https://booksquare-23222-default-rtdb.firebaseio.com",
+    "project_id": "booksquare-23222",
+    "storage_bucket": "booksquare-23222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312083692463:android:5e77c0cea0d797f32dcd5a",
+        "android_client_info": {
+          "package_name": "com.booksquare.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312083692463-3tsf307bn2m9ukp8f1bev9vj26apbeih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWfb06zk8TjU0SgSHz45voNx32TiVEojA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312083692463-3tsf307bn2m9ukp8f1bev9vj26apbeih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312083692463:android:8d9f7ce46ef701192dcd5a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312083692463-3tsf307bn2m9ukp8f1bev9vj26apbeih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWfb06zk8TjU0SgSHz45voNx32TiVEojA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312083692463-3tsf307bn2m9ukp8f1bev9vj26apbeih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
